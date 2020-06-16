@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+    <string name="testowanie">Testowanie tekstu!</string>
+    <string name="czesc">Co tam u ciebie?</string>
+    <string name="autor">Tutaj Andrzej!</string>
+    <string name="pomysl">Brak pomysłów...</string>
+    <string name="koniec">Ostatni string.</string>
+</resources>

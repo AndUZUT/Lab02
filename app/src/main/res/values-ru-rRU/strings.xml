@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="moj_tekst">Привет мир!</string>
+    <string name="testowanie">Тестирование текста!</string>
+    <string name="czesc">Что происходит?</string>
+    <string name="autor">Анджей здесь!</string>
+    <string name="pomysl">Нет идей ...</string>
+    <string name="koniec">Последняя строка</string>
+</resources>
